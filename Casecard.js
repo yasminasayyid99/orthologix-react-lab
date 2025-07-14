@@ -18,4 +18,3 @@ function CaseCard({ proc, outcome, comp }) {
 }
 
 export default CaseCard;
-
